@@ -1,0 +1,7910 @@
+{
+  "Saturday": {
+    "time_slots": [
+      "08:30-10:00",
+      "10:00-11:30",
+      "11:30-01:00",
+      "01:00-02:30",
+      "02:30-04:00",
+      "04:00-05:30"
+    ],
+    "rooms": [
+      {
+        "room_number": "KT-208",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE227(65_C)",
+            "teacher": "MM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE227(65_B)",
+            "teacher": "MM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE325(63_A)",
+            "teacher": "ZH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT101(69_L)",
+            "teacher": "ZNT"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE121(67_C)",
+            "teacher": "AKM"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE311(65_G)",
+            "teacher": "MHD"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-213",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE333(61_D)",
+            "teacher": "AS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE325(63_D)",
+            "teacher": "ZH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "PHY101(68_B)",
+            "teacher": "MAK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE423(63_D)",
+            "teacher": "AHS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE423(63_F)",
+            "teacher": "AHS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-216",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE233(61_E)",
+            "teacher": "FLA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE233(61_H)",
+            "teacher": "FLA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "ENG102(68_L)",
+            "teacher": "SML"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE323(62_H)",
+            "teacher": "IPK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE122(RE_A)",
+            "teacher": "FAA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-217",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG101(69_R)",
+            "teacher": "SSN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE121(67_F)",
+            "teacher": "MRH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE112(69_R)",
+            "teacher": "IPK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "PHY101(68_R)",
+            "teacher": "RIM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE226(65_M)",
+            "teacher": "DSK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-218",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT211(RE_A)",
+            "teacher": "DSK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE317(64_J)",
+            "teacher": "MALH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE112(69_D)",
+            "teacher": "ACC"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE333(61_T)",
+            "teacher": "HHP"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE423(63_E)",
+            "teacher": "DAA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-219",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG101(69_K)",
+            "teacher": "ASA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "PHY101(68_C)",
+            "teacher": "MAK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE113(68_R)",
+            "teacher": "FAA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE423(63_M)",
+            "teacher": "SEA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG101(69_L)",
+            "teacher": "ANR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-220",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE115(69_E)",
+            "teacher": "JHJ"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE112(69_C)",
+            "teacher": "ACC"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE221(66_D)",
+            "teacher": "AHS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE115(69_Q)",
+            "teacher": "AIR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG101(69_Q)",
+            "teacher": "SIS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-221",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "STA101(64_J)",
+            "teacher": "AST"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ENG102(68_O)",
+            "teacher": "SIS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE121(RE_A)",
+            "teacher": "AKM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE333(63_H)",
+            "teacher": "MALH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE213(RE_A)",
+            "teacher": "NK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-222",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(68_C)",
+            "teacher": "MRR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT101(69_S)",
+            "teacher": "HSA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "ENG101(69_P)",
+            "teacher": "ASA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE325(63_O)",
+            "teacher": "MHIM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE415(61_C)",
+            "teacher": "MSJ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-223",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(68_N)",
+            "teacher": "NRA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE411(RE_A)",
+            "teacher": "MIN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_F)",
+            "teacher": "ARS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE227(65_E)",
+            "teacher": "ACC"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "AOL101(66_A)",
+            "teacher": "AAM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-224",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE115(69_S)",
+            "teacher": "HHP"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "PHY101(68_N)",
+            "teacher": "RIM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE113(68_O)",
+            "teacher": "MJZ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE321(65_M)",
+            "teacher": "PDS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG101(RE_A)",
+            "teacher": "SSN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-302",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "PHY101(68_O)",
+            "teacher": "RIM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE233(61_T)",
+            "teacher": "ATN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT102(68_P)",
+            "teacher": "NRA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE233(61_C)",
+            "teacher": "ATN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE323(62_G)",
+            "teacher": "DS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-303",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG102(68_P)",
+            "teacher": "SIS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE221(66_M)",
+            "teacher": "AUA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_N)",
+            "teacher": "AUA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE115(69_D)",
+            "teacher": "AUA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE315(RE_A)",
+            "teacher": "IMD"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-304",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE333(63_B)",
+            "teacher": "MIS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE415(61_Q)",
+            "teacher": "SEA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "STA101(64_K)",
+            "teacher": "NFR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT101(69_C)",
+            "teacher": "MSH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE317(64_K)",
+            "teacher": "MALH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-305",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE415(61_T)",
+            "teacher": "MDA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE321(65_J)",
+            "teacher": "TI"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_E)",
+            "teacher": "AS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE112(69_E)",
+            "teacher": "NNM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "STA101(64_N)",
+            "teacher": "TKR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "STA227(RE_A)",
+            "teacher": "TKR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-306",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "STA101(64_K)",
+            "teacher": "NFR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE215(66_I)",
+            "teacher": "SMA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE212(67_F)",
+            "teacher": "DMR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE113(68_N)",
+            "teacher": "AAKA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT101(69_P)",
+            "teacher": "ZNT"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-307",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "AOL101(66_I)",
+            "teacher": "GR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE321(65_C)",
+            "teacher": "AM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE325(63_E)",
+            "teacher": "DMAK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE212(67_C)",
+            "teacher": "DMR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE321(65_A)",
+            "teacher": "AM"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE221(RE_A)",
+            "teacher": "FAA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-318(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE423(63_E)",
+            "teacher": "DAA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE215(66_P)",
+            "teacher": "JNT"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE423(63_H)",
+            "teacher": "DAA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE227(65_L)",
+            "teacher": "MSJ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE335(RE_A)",
+            "teacher": "MIN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-318(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE221(66_P)",
+            "teacher": "JAR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE233(61_N)",
+            "teacher": "MHI"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE413(64_J)",
+            "teacher": "NAE"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG102(68_H)",
+            "teacher": "ASA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE313(64_J)",
+            "teacher": "UH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-320",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG101(69_N)",
+            "teacher": "SMSH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "STA101(64_I)",
+            "teacher": "AST"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE113(68_H)",
+            "teacher": "FAF"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE313(64_I)",
+            "teacher": "UH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE112(69_T)",
+            "teacher": "MSRH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-801(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT101(69_M)",
+            "teacher": "ZNT"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE411(63_O)",
+            "teacher": "SAL"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_Q)",
+            "teacher": "MSS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE317(64_G)",
+            "teacher": "CSA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE334(62_D)",
+            "teacher": "FH"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE214(3RE_A)",
+            "teacher": "MMB"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-801(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE221(66_N)",
+            "teacher": "SGP"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE226(65_O)",
+            "teacher": "DSK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT101(69_G)",
+            "teacher": "SP"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT211(RE_B)",
+            "teacher": "MYA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE311(65_H)",
+            "teacher": "MUM"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE226(65_J)",
+            "teacher": "AKC"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-802",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE413(64_A)",
+            "teacher": "MFH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ENG101(69_G)",
+            "teacher": "SMH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE413(64_G)",
+            "teacher": "MFH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE311(65_K)",
+            "teacher": "NK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE226(65_E)",
+            "teacher": "AKC"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-803",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE333(61_N)",
+            "teacher": "JLA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE321(65_D)",
+            "teacher": "MSI"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE413(64_N)",
+            "teacher": "AAA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE121(67_M)",
+            "teacher": "MRS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT211(67_M)",
+            "teacher": "MNM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-804",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE237(RE_A)",
+            "teacher": "FH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE221(66_Q)",
+            "teacher": "JAR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE411(63_M)",
+            "teacher": "MIS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT102(68_K)",
+            "teacher": "NRA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT102(RE_A)",
+            "teacher": "HSA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-813(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE321(65_B)",
+            "teacher": "MSI"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE325(63_B)",
+            "teacher": "FH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE121(67_K)",
+            "teacher": "MRS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE221(66_O)",
+            "teacher": "SGP"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE226(65_K)",
+            "teacher": "MYA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-514",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE331(62_H)",
+            "teacher": "KNJ"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE213(67_M)",
+            "teacher": "FAN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "AOL101(66_M)",
+            "teacher": "FNK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE213(67_I)",
+            "teacher": "FAN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE215(66_O)",
+            "teacher": "UYH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-515",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE134(RE_A)",
+            "teacher": "MUM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE415(61_F)",
+            "teacher": "NAE"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE213(67_N)",
+            "teacher": "AAKA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "AOL101(66_N)",
+            "teacher": "FNK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE317(64_I)",
+            "teacher": "CSA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE115(RE_A)",
+            "teacher": "MIN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-516",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT101(69_D)",
+            "teacher": "MSH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE113(68_I)",
+            "teacher": "MMR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE113(68_I)",
+            "teacher": "MMR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE221(66_L)",
+            "teacher": "HJ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE215(66_L)",
+            "teacher": "SHD"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-517(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE215(66_K)",
+            "teacher": "SMA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE221(66_K)",
+            "teacher": "HJ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE311(65_A)",
+            "teacher": "NK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE426(60_F)",
+            "teacher": "SAL"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE498(60_F)",
+            "teacher": "GR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-518",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE321(65_O)",
+            "teacher": "TI"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT101(69_K)",
+            "teacher": "ZNT"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "ENG101(69_T)",
+            "teacher": "SSN"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE334(62_G)",
+            "teacher": "MMRN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT101(69_N)",
+            "teacher": "MSH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-815",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE315(1RE_A)",
+            "teacher": "SAL"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ENG101(69_M)",
+            "teacher": "SMSH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE226(65_D)",
+            "teacher": "AKC"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG102(68_I)",
+            "teacher": "ANR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG102(68_N)",
+            "teacher": "SMSH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-916",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT211(67_P)",
+            "teacher": "MYA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE121(67_P)",
+            "teacher": "MLR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE311(65_O)",
+            "teacher": "NHA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE215(66_M)",
+            "teacher": "UYH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE136(RE_A)",
+            "teacher": "AAA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-919",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE121(67_Q)",
+            "teacher": "MSAM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT211(67_Q)",
+            "teacher": "MYA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE215(66_N)",
+            "teacher": "SHD"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG101(69_S)",
+            "teacher": "SSN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE112(69_S)",
+            "teacher": "IPK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-501(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE222(66_A)",
+            "teacher": "SAH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE222(66_A)",
+            "teacher": "SAH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "ENG102(68_K)",
+            "teacher": "SMSH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE322(65_B2)",
+            "teacher": "MSI"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE322(65_B2)",
+            "teacher": "MSI"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-501(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE324(62_G1)",
+            "teacher": "DS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE324(62_G1)",
+            "teacher": "DS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE324(62_G1)",
+            "teacher": "DS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE312(65_O1)",
+            "teacher": "NHA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE312(65_O1)",
+            "teacher": "NHA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-503",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE445(RE_A)",
+            "teacher": "NTS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE326(63_A1)",
+            "teacher": "MSS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "AOL101(66_L)",
+            "teacher": "GR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE322(65_J2)",
+            "teacher": "TI"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE322(65_J2)",
+            "teacher": "TI"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-504",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "TCSE412(63_A2)",
+            "teacher": "MMRN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE412(63_A2)",
+            "teacher": "MMRN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT101(69_Q)",
+            "teacher": "MNM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE416(61_F2)",
+            "teacher": "NAE"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE416(61_F2)",
+            "teacher": "NAE"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE416(61_F2)",
+            "teacher": "NAE"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-510",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE231(2RE_A)",
+            "teacher": "TAB"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT101(69_E)",
+            "teacher": "MSH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE233(61_D)",
+            "teacher": "MHI"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE326(63_A2)",
+            "teacher": "MSS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "TCSE326(63_A2)",
+            "teacher": "MSS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-513",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE325(63_F)",
+            "teacher": "DMAK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE231(2RE_A)",
+            "teacher": "TAB"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE123(RE_A)",
+            "teacher": "KNJ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE412(63_A1)",
+            "teacher": "MMRN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "TCSE412(63_A1)",
+            "teacher": "MMRN"
+          }
+        ]
+      },
+      {
+        "room_number": "CTBA-01",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "TCSE326(63_A1)",
+            "teacher": "MSS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "TCSE332(62_H1)",
+            "teacher": "SKN"
+          }
+        ]
+      }
+    ],
+    "labs": {
+      "computer_labs": [],
+      "electrical_labs": [],
+      "embedded_lab": {},
+      "iot_lab": {}
+    }
+  },
+  "Sunday": {
+    "time_slots": [
+      "08:30-10:00",
+      "10:00-11:30",
+      "11:30-01:00",
+      "01:00-02:30",
+      "02:30-04:00",
+      "04:00-05:30"
+    ],
+    "rooms": [
+      {
+        "room_number": "KT-208",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE221(66_A)",
+            "teacher": "SAH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE221(66_B)",
+            "teacher": "SAH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(63_G)",
+            "teacher": "MAH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE212(67_G)",
+            "teacher": "AHN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "PHY101(68_P)",
+            "teacher": "MAM"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE112(69_N)",
+            "teacher": "MHD"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-213",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE413(64_B)",
+            "teacher": "SZ"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE413(64_E)",
+            "teacher": "SZ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "ENG101(69_D)",
+            "teacher": "AJS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG102(68_P)",
+            "teacher": "SIS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE313(64_K)",
+            "teacher": "ZS"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE317(64_N)",
+            "teacher": "ROZ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-216",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE215(66_H)",
+            "teacher": "EHL"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE233(61_M)",
+            "teacher": "MTF"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE325(63_L)",
+            "teacher": "MSS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "STA101(64_C)",
+            "teacher": "AST"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE113(68_L)",
+            "teacher": "MJZ"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE215(66_G)",
+            "teacher": "SMC"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-217",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE334(62_A)",
+            "teacher": "SAS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE112(69_D)",
+            "teacher": "ACC"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE121(67_M)",
+            "teacher": "MRS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE115(69_D)",
+            "teacher": "AUA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE313(64_N)",
+            "teacher": "MUR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "ENG101(RE_A)",
+            "teacher": "SSN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-218",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE121(67_K)",
+            "teacher": "MRS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE112(69_J)",
+            "teacher": "TAB"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "AOL101(66_B)",
+            "teacher": "SMR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE115(69_K)",
+            "teacher": "ZAF"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE415(61_S)",
+            "teacher": "MAR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "STA101(64_E)",
+            "teacher": "AMN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-219",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE233(61_E)",
+            "teacher": "FLA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE233(61_H)",
+            "teacher": "FLA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "ENG102(68_E)",
+            "teacher": "SMH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT102(68_L)",
+            "teacher": "ABM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "STA101(64_M)",
+            "teacher": "AST"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "ENG102(68_L)",
+            "teacher": "SML"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-220",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ACT211(RE_A)",
+            "teacher": "SMR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "PHY101(68_A)",
+            "teacher": "SSK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE213(67_L)",
+            "teacher": "TAB"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE317(64_H)",
+            "teacher": "NJO"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE415(61_M)",
+            "teacher": "CSA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE311(65_E)",
+            "teacher": "MSK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-221",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(68_A)",
+            "teacher": "MRR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE333(63_K)",
+            "teacher": "SAJ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE415(61_T)",
+            "teacher": "MDA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE115(69_O)",
+            "teacher": "ZMK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE321(65_N)",
+            "teacher": "ROZ"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE233(61_T)",
+            "teacher": "ATN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-222",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE115(69_J)",
+            "teacher": "FNK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT101(69_K)",
+            "teacher": "ZNT"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE317(64_O)",
+            "teacher": "ROZ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE215(66_D)",
+            "teacher": "SMC"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE325(63_K)",
+            "teacher": "LR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE333(61_M)",
+            "teacher": "JLA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-223",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "PHY101(68_J)",
+            "teacher": "AHT"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE411(RE_A)",
+            "teacher": "MIN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE215(66_A)",
+            "teacher": "MAI"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE333(61_S)",
+            "teacher": "NSL"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE411(63_G)",
+            "teacher": "MA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE225(RE_B)",
+            "teacher": "MSRH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-224",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT101(69_M)",
+            "teacher": "ZNT"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE121(67_I)",
+            "teacher": "RHK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "STA101(64_H)",
+            "teacher": "AST"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE317(64_M)",
+            "teacher": "SHR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE112(69_N)",
+            "teacher": "MHD"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "AOL101(66_K)",
+            "teacher": "SMN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-302",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE411(63_H)",
+            "teacher": "ALM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE227(65_F)",
+            "teacher": "RAK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE411(63_J)",
+            "teacher": "MMRN"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE233(61_A)",
+            "teacher": "KHR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE321(65_O)",
+            "teacher": "TI"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "MAT101(69_O)",
+            "teacher": "MRR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-303",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG102(68_C)",
+            "teacher": "AJS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE213(67_A)",
+            "teacher": "SNK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_H)",
+            "teacher": "ZAF"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG102(68_F)",
+            "teacher": "SSA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(63_C)",
+            "teacher": "MIS"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE215(66_E)",
+            "teacher": "SHD"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-304",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE313(64_C)",
+            "teacher": "MUR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE331(62_A)",
+            "teacher": "MAH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE112(69_I)",
+            "teacher": "MB"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "AOL101(66_F)",
+            "teacher": "SMN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE317(64_B)",
+            "teacher": "SNK"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE121(RE_A)",
+            "teacher": "AKM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-305",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE333(61_B)",
+            "teacher": "AS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE325(63_G)",
+            "teacher": "SN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_E)",
+            "teacher": "AS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE212(67_B)",
+            "teacher": "DMR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(61_J)",
+            "teacher": "MAA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE223(3RE_A)",
+            "teacher": "LRA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-306",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE317(64_I)",
+            "teacher": "CSA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE213(67_D)",
+            "teacher": "SMAH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE212(67_E)",
+            "teacher": "DMR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE321(65_E)",
+            "teacher": "AM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE213(67_E)",
+            "teacher": "FAF"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE212(RE_A)",
+            "teacher": "MIN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-307",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE212(67_C)",
+            "teacher": "DMR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE321(65_C)",
+            "teacher": "AM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE213(67_G)",
+            "teacher": "SI"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE321(65_K)",
+            "teacher": "FTJ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE112(69_H)",
+            "teacher": "FFN"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE415(61_A)",
+            "teacher": "MIZ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-318(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE411(63_B)",
+            "teacher": "SAK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE445(62_D)",
+            "teacher": "SAK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE325(63_B)",
+            "teacher": "FH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE227(65_O)",
+            "teacher": "ALE"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(63_J)",
+            "teacher": "SAJ"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE121(67_D)",
+            "teacher": "MSU"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-318(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE415(61_U)",
+            "teacher": "MDA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE423(63_B)",
+            "teacher": "MSK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT101(69_B)",
+            "teacher": "MRR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT211(67_M)",
+            "teacher": "MNM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "PHY101(68_G)",
+            "teacher": "SSK"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE325(63_C)",
+            "teacher": "FH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-320",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE411(63_D)",
+            "teacher": "SN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE423(63_D)",
+            "teacher": "AHS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "PHY101(68_D)",
+            "teacher": "SSK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE121(67_O)",
+            "teacher": "MSU"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG101(69_O)",
+            "teacher": "ASA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE311(65_N)",
+            "teacher": "PPC"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-801(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE226(65_B)",
+            "teacher": "SSL"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE212(67_L)",
+            "teacher": "RKR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE212(67_O)",
+            "teacher": "RKR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE221(66_G)",
+            "teacher": "FAJ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE313(64_H)",
+            "teacher": "RKR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE233(61_F)",
+            "teacher": "MMH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-801(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT211(67_A)",
+            "teacher": "BCD"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT211(67_B)",
+            "teacher": "BCD"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE226(65_C)",
+            "teacher": "SSL"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE498(60_B)",
+            "teacher": "MMB"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE226(65_F)",
+            "teacher": "SSL"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE113(68_F)",
+            "teacher": "FAF"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-802",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(68_H)",
+            "teacher": "MPL"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE115(69_F)",
+            "teacher": "ABA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_G)",
+            "teacher": "ABA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE311(65_I)",
+            "teacher": "SH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE113(68_D)",
+            "teacher": "ABA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE321(65_M)",
+            "teacher": "PDS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-803",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE112(69_F)",
+            "teacher": "FFN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE321(65_B)",
+            "teacher": "MSI"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE498(60_A)",
+            "teacher": "MMI"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE426(60_A)",
+            "teacher": "SAS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE227(65_H)",
+            "teacher": "HH"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE317(RE_A)",
+            "teacher": "MAIT"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-804",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(68_B)",
+            "teacher": "SP"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT101(69_I)",
+            "teacher": "SP"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT102(68_J)",
+            "teacher": "MPL"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG101(69_F)",
+            "teacher": "SMH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE227(65_K)",
+            "teacher": "MSJ"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE331(62_E)",
+            "teacher": "MMB"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-813(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG101(69_G)",
+            "teacher": "SMH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "STA101(64_A)",
+            "teacher": "MKH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "STA101(64_B)",
+            "teacher": "MKH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT101(69_G)",
+            "teacher": "SP"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG101(69_J)",
+            "teacher": "ANR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE113(68_Q)",
+            "teacher": "HH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-514",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE115(69_I)",
+            "teacher": "ZMK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE213(67_M)",
+            "teacher": "FAN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_A)",
+            "teacher": "NS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE213(67_I)",
+            "teacher": "FAN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(61_C)",
+            "teacher": "NS"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE445(RE_A)",
+            "teacher": "NTS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-515",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE323(62_B)",
+            "teacher": "JIA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE213(67_C)",
+            "teacher": "TAR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE413(64_I)",
+            "teacher": "THT"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE413(64_O)",
+            "teacher": "THT"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE213(67_K)",
+            "teacher": "TAR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE134(RE_A)",
+            "teacher": "MUM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-516",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE313(64_A)",
+            "teacher": "SMTS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE313(64_B)",
+            "teacher": "SMTS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE212(67_A)",
+            "teacher": "SR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE413(64_K)",
+            "teacher": "NAE"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE445(62_C)",
+            "teacher": "SR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE445(62_F)",
+            "teacher": "SR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-517(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG101(69_H)",
+            "teacher": "SSA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE333(61_K)",
+            "teacher": "MAA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT211(67_C)",
+            "teacher": "NRM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE498(60_C)",
+            "teacher": "MMI"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT211(67_D)",
+            "teacher": "NRM"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE236(1RE_A)",
+            "teacher": "JHJ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-518",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT211(67_L)",
+            "teacher": "NDS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "PHY101(68_E)",
+            "teacher": "AAS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "PHY101(68_H)",
+            "teacher": "AAS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE445(62_A)",
+            "teacher": "SR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE115(69_P)",
+            "teacher": "FNK"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "MAT101(RE_A)",
+            "teacher": "AHKA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-815",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE233(61_I)",
+            "teacher": "ITS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE426(60_C)",
+            "teacher": "HMK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE323(62_F)",
+            "teacher": "HMK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE334(62_F)",
+            "teacher": "MA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE426(60_B)",
+            "teacher": "HMK"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE498(60_D)",
+            "teacher": "GR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-916",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE226(65_I)",
+            "teacher": "MYA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE121(67_N)",
+            "teacher": "AHT"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE426(60_D)",
+            "teacher": "SAS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE445(62_G)",
+            "teacher": "MAR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE325(63_H)",
+            "teacher": "SN"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "ENG102(68_D)",
+            "teacher": "SSA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-919",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE221(66_D)",
+            "teacher": "AHS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE415(61_I)",
+            "teacher": "AAA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT211(67_N)",
+            "teacher": "NDS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE213(67_N)",
+            "teacher": "AAKA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE212(67_N)",
+            "teacher": "AGT"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE331(2RE_A)",
+            "teacher": "RAK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-501(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE416(61_F1)",
+            "teacher": "NAE"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE416(61_F1)",
+            "teacher": "NAE"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE416(61_F1)",
+            "teacher": "NAE"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE324(62_B2)",
+            "teacher": "JIA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE324(62_B2)",
+            "teacher": "JIA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE324(62_B2)",
+            "teacher": "JIA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-501(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE324(62_C2)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE324(62_C2)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE324(62_C2)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE415(61_E)",
+            "teacher": "MAIT"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT211(67_F)",
+            "teacher": "NDS"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE321(65_J)",
+            "teacher": "TI"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-503",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE415(61_G)",
+            "teacher": "FMA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE114(68_C)",
+            "teacher": "SRH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE114(68_C)",
+            "teacher": "SRH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE113(68_A)",
+            "teacher": "MHN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG102(68_Q)",
+            "teacher": "SIS"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "MAT121(RE_A)",
+            "teacher": "GRS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-504",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE115(69_B)",
+            "teacher": "MSM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE321(65_H)",
+            "teacher": "AAK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE317(64_K)",
+            "teacher": "MALH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE333(63_I)",
+            "teacher": "RIA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE233(61_L)",
+            "teacher": "BM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-510",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE311(65_J)",
+            "teacher": "SH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE332(62_C1)",
+            "teacher": "TRA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE226(65_K)",
+            "teacher": "MYA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE222(66_E1)",
+            "teacher": "SZ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE222(66_E1)",
+            "teacher": "SZ"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE113(68_G)",
+            "teacher": "MHN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-513",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE113(68_R)",
+            "teacher": "FAA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "AOL101(66_D)",
+            "teacher": "SMR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_H)",
+            "teacher": "TRA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE322(65_B1)",
+            "teacher": "MSI"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE322(65_B1)",
+            "teacher": "MSI"
+          }
+        ]
+      },
+      {
+        "room_number": "CTBA-01",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "TCSE332(62_C1)",
+            "teacher": "TRA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "TCSE326(63_L1)",
+            "teacher": "MSS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "TCSE412(63_D2)",
+            "teacher": "MIS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "TCSE326(63_K1)",
+            "teacher": "LR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "TCSE326(63_D1)",
+            "teacher": "LR"
+          }
+        ]
+      },
+      {
+        "room_number": "CTBA-02",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "TCSE332(62_G1)",
+            "teacher": "SHR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "TCSE332(62_E1)",
+            "teacher": "MMB"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE314(2RE_A1)",
+            "teacher": "ZZ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "TCSE332(62_B1)",
+            "teacher": "MAH"
+          }
+        ]
+      },
+      {
+        "room_number": "CTBA-03",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "TCSE412(63_I2)",
+            "teacher": "ALM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "TCSE326(63_B1)",
+            "teacher": "FH"
+          }
+        ]
+      }
+    ],
+    "labs": {
+      "computer_labs": [],
+      "electrical_labs": [],
+      "embedded_lab": {},
+      "iot_lab": {}
+    }
+  },
+  "Monday": {
+    "time_slots": [
+      "08:30-10:00",
+      "10:00-11:30",
+      "11:30-01:00",
+      "01:00-02:30",
+      "02:30-04:00",
+      "04:00-05:30"
+    ],
+    "rooms": [
+      {
+        "room_number": "KT-208",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE313(64_L)",
+            "teacher": "DS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE333(61_B)",
+            "teacher": "AS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE413(64_F)",
+            "teacher": "SZ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG101(69_K)",
+            "teacher": "ASA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE413(64_H)",
+            "teacher": "SZ"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "MAT101(RE_A)",
+            "teacher": "AHKA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-213",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE333(63_A)",
+            "teacher": "SH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE325(63_A)",
+            "teacher": "ZH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE325(63_D)",
+            "teacher": "ZH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE423(63_A)",
+            "teacher": "STA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG101(69_I)",
+            "teacher": "ASA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "STA101(64_H)",
+            "teacher": "AST"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-216",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG101(69_C)",
+            "teacher": "SMH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE227(65_E)",
+            "teacher": "ACC"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT101(69_P)",
+            "teacher": "ZNT"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "PHY101(68_A)",
+            "teacher": "SSK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "STA101(64_F)",
+            "teacher": "AMN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-217",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE325(63_H)",
+            "teacher": "SN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE498(60_D)",
+            "teacher": "GR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE112(69_M)",
+            "teacher": "MHS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE313(64_M)",
+            "teacher": "MUR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(61_G)",
+            "teacher": "ZS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-218",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT101(69_A)",
+            "teacher": "MSH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT101(69_E)",
+            "teacher": "MSH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE233(61_B)",
+            "teacher": "MHK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE498(60_E)",
+            "teacher": "GR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE411(63_D)",
+            "teacher": "SN"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "PHY101(RE_A)",
+            "teacher": "RIM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-219",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE333(63_G)",
+            "teacher": "MAH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE325(63_G)",
+            "teacher": "SN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE215(66_M)",
+            "teacher": "UYH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "STA101(64_C)",
+            "teacher": "AST"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE311(65_M)",
+            "teacher": "MAA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-220",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE233(61_O)",
+            "teacher": "JMS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ENG101(69_O)",
+            "teacher": "ASA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_R)",
+            "teacher": "ZS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE317(64_G)",
+            "teacher": "CSA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE415(61_R)",
+            "teacher": "TAK"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE215(66_H)",
+            "teacher": "EHL"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-221",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE112(69_K)",
+            "teacher": "MA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE333(61_U)",
+            "teacher": "PPC"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE112(69_I)",
+            "teacher": "MB"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE423(63_J)",
+            "teacher": "LR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT101(69_Q)",
+            "teacher": "MNM"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE233(61_R)",
+            "teacher": "KHR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-222",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE411(63_I)",
+            "teacher": "ALM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE423(63_I)",
+            "teacher": "STA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_H)",
+            "teacher": "ZAF"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE311(65_D)",
+            "teacher": "MJA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE415(61_P)",
+            "teacher": "ALE"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "AOL101(66_O)",
+            "teacher": "SMR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-223",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE112(69_Q)",
+            "teacher": "RAK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ENG101(69_L)",
+            "teacher": "ANR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE411(63_G)",
+            "teacher": "MA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE325(63_I)",
+            "teacher": "AHAK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE331(62_C)",
+            "teacher": "TRA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE333(61_M)",
+            "teacher": "JLA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-224",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG101(69_D)",
+            "teacher": "AJS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE331(62_F)",
+            "teacher": "MMB"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE221(66_C)",
+            "teacher": "TDR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE415(61_O)",
+            "teacher": "ALE"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG101(69_E)",
+            "teacher": "ANR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE221(RE_A)",
+            "teacher": "FAA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-302",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE323(62_F)",
+            "teacher": "HMK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE112(69_A)",
+            "teacher": "FZA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE213(67_H)",
+            "teacher": "MUH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE221(66_H)",
+            "teacher": "FAJ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE233(61_A)",
+            "teacher": "KHR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE311(65_G)",
+            "teacher": "MHD"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-303",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE112(69_L)",
+            "teacher": "DRAR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE112(69_B)",
+            "teacher": "NNM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE415(61_N)",
+            "teacher": "MFZ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE415(61_V)",
+            "teacher": "SAL"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE415(61_H)",
+            "teacher": "AAA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE415(61_D)",
+            "teacher": "MAIT"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-304",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG102(68_Q)",
+            "teacher": "SIS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE423(63_C)",
+            "teacher": "LR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE227(65_M)",
+            "teacher": "MUR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE227(65_J)",
+            "teacher": "IJN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "AOL101(66_H)",
+            "teacher": "MAIT"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE233(61_K)",
+            "teacher": "MTF"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-305",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE121(67_C)",
+            "teacher": "AKM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE213(67_D)",
+            "teacher": "SMAH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE227(65_K)",
+            "teacher": "MSJ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE112(69_E)",
+            "teacher": "NNM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(61_D)",
+            "teacher": "AS"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "STA101(64_E)",
+            "teacher": "AMN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-306",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE112(69_G)",
+            "teacher": "MB"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE113(68_B)",
+            "teacher": "SRH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE226(65_G)",
+            "teacher": "SSL"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE325(63_F)",
+            "teacher": "DMAK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE411(63_A)",
+            "teacher": "AAK"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE311(65_H)",
+            "teacher": "MUM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-307",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE226(65_B)",
+            "teacher": "SSL"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE321(65_A)",
+            "teacher": "AM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE321(65_E)",
+            "teacher": "AM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE498(60_C)",
+            "teacher": "MMI"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT211(67_E)",
+            "teacher": "NDS"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE213(67_E)",
+            "teacher": "FAF"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-318(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG102(68_J)",
+            "teacher": "SML"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE321(65_L)",
+            "teacher": "ARS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "ENG102(68_F)",
+            "teacher": "SSA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE426(60_D)",
+            "teacher": "SAS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE212(67_I)",
+            "teacher": "AHN"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE313(64_D)",
+            "teacher": "DRAR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-318(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE331(62_E)",
+            "teacher": "MMB"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE415(61_L)",
+            "teacher": "MFZ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE113(68_Q)",
+            "teacher": "HH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG101(69_B)",
+            "teacher": "SSA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE317(64_A)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE335(RE_A)",
+            "teacher": "MIN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-320",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE215(66_C)",
+            "teacher": "MAI"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE423(63_B)",
+            "teacher": "MSK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT101(69_F)",
+            "teacher": "MRR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT102(68_C)",
+            "teacher": "MRR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "STA101(64_M)",
+            "teacher": "AST"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE317(64_F)",
+            "teacher": "ALM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-801(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(68_I)",
+            "teacher": "MPL"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE313(64_H)",
+            "teacher": "RKR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE313(64_G)",
+            "teacher": "RKR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "PHY101(68_K)",
+            "teacher": "AAS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE226(65_H)",
+            "teacher": "SSL"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "MAT101(69_O)",
+            "teacher": "MRR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-801(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT211(67_G)",
+            "teacher": "BCD"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT211(67_A)",
+            "teacher": "BCD"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE212(67_K)",
+            "teacher": "MMI"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE325(63_C)",
+            "teacher": "FH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE426(60_E)",
+            "teacher": "PDS"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE415(61_B)",
+            "teacher": "MIZ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-802",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE413(64_G)",
+            "teacher": "MFH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE115(69_F)",
+            "teacher": "ABA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_G)",
+            "teacher": "ABA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG102(68_B)",
+            "teacher": "SMH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE113(68_D)",
+            "teacher": "ABA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE226(65_J)",
+            "teacher": "AKC"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-803",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE333(61_L)",
+            "teacher": "JIA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ENG101(69_Q)",
+            "teacher": "SIS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE413(64_A)",
+            "teacher": "MFH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT102(68_D)",
+            "teacher": "MNM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE498(60_F)",
+            "teacher": "GR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE498(60_B)",
+            "teacher": "MMB"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-804",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT101(69_H)",
+            "teacher": "SP"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "STA101(64_A)",
+            "teacher": "MKH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE233(61_L)",
+            "teacher": "BM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT101(69_D)",
+            "teacher": "MSH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE426(60_B)",
+            "teacher": "HMK"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE426(60_F)",
+            "teacher": "SAL"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-813(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(RE_A)",
+            "teacher": "HSA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE445(62_G)",
+            "teacher": "MAR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE323(62_G)",
+            "teacher": "DS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE226(65_L)",
+            "teacher": "AKC"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE112(69_O)",
+            "teacher": "MFZ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-514",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE333(61_F)",
+            "teacher": "ARS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE333(61_C)",
+            "teacher": "NS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_A)",
+            "teacher": "NS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE213(67_F)",
+            "teacher": "SI"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE311(65_L)",
+            "teacher": "IJN"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE333(61_O)",
+            "teacher": "MSS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-515",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE445(62_B)",
+            "teacher": "FH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE213(67_G)",
+            "teacher": "SI"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE413(64_C)",
+            "teacher": "THT"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE413(64_D)",
+            "teacher": "THT"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE411(63_E)",
+            "teacher": "MA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE233(61_J)",
+            "teacher": "BM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-516",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE317(64_C)",
+            "teacher": "AHN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE212(67_J)",
+            "teacher": "AHN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE331(64_E)",
+            "teacher": "SMTS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE331(64_F)",
+            "teacher": "SMTS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE311(RE_A)",
+            "teacher": "NHA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE333(63_E)",
+            "teacher": "RIA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-517(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE333(63_C)",
+            "teacher": "MIS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT211(67_H)",
+            "teacher": "NRM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT211(67_I)",
+            "teacher": "NRM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE221(66_I)",
+            "teacher": "UA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT211(67_K)",
+            "teacher": "NRM"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE317(64_B)",
+            "teacher": "SNK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-518",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE213(67_J)",
+            "teacher": "AGT"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "PHY101(68_I)",
+            "teacher": "AAS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE426(60_C)",
+            "teacher": "HMK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE112(69_P)",
+            "teacher": "MHS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE415(61_M)",
+            "teacher": "CSA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE215(66_I)",
+            "teacher": "SMA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-815",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG102(68_G)",
+            "teacher": "SSA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE213(67_P)",
+            "teacher": "SAJ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT102(68_G)",
+            "teacher": "MPL"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE115(69_M)",
+            "teacher": "FTJ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE115(69_L)",
+            "teacher": "MRA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE212(1RE_A)",
+            "teacher": "MRS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-916",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT211(67_P)",
+            "teacher": "MYA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT211(67_F)",
+            "teacher": "NDS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE413(64_M)",
+            "teacher": "FFZ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE413(64_L)",
+            "teacher": "FFZ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE321(65_D)",
+            "teacher": "MSI"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-919",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE121(67_Q)",
+            "teacher": "MSAM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT101(69_I)",
+            "teacher": "SP"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT211(67_Q)",
+            "teacher": "MYA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT102(68_N)",
+            "teacher": "NRA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE113(68_F)",
+            "teacher": "FAF"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-501(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE222(66_B)",
+            "teacher": "SAH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE222(66_B)",
+            "teacher": "SAH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE324(62_B1)",
+            "teacher": "JIA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE324(62_B1)",
+            "teacher": "JIA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE324(62_B1)",
+            "teacher": "JIA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE113(68_G)",
+            "teacher": "MHN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-501(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE113(68_C)",
+            "teacher": "MSM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE332(62_C2)",
+            "teacher": "TRA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE113(68_A)",
+            "teacher": "MHN"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE333(63_D)",
+            "teacher": "MUH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE225(RE_A)",
+            "teacher": "MSRH"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE225(RE_B)",
+            "teacher": "MSRH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-503",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE324(62_C1)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE324(62_C1)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE324(62_C1)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE332(62_E2)",
+            "teacher": "MMB"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE423(63_G)",
+            "teacher": "FMA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE412(1RE_A)",
+            "teacher": "SAK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-504",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE321(65_G)",
+            "teacher": "AAM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE326(63_J1)",
+            "teacher": "AHAK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_K)",
+            "teacher": "MAA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE415(61_K)",
+            "teacher": "NSL"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG101(69_H)",
+            "teacher": "SSA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-510",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG101(69_I)",
+            "teacher": "ASA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE113(68_J)",
+            "teacher": "MSM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_C)",
+            "teacher": "MSM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE235(RE_A)",
+            "teacher": "GRS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE114(68_K1)",
+            "teacher": "MHS"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE114(68_K1)",
+            "teacher": "MHS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-513",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE227(65_L)",
+            "teacher": "MSJ"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE115(69_P)",
+            "teacher": "FNK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE325(63_E)",
+            "teacher": "DMAK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT101(69_L)",
+            "teacher": "ZNT"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE114(68_N2)",
+            "teacher": "AAKA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE114(68_N2)",
+            "teacher": "AAKA"
+          }
+        ]
+      },
+      {
+        "room_number": "CTBA-01",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "TCSE332(62_C2)",
+            "teacher": "TRA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "TCSE412(63_F2)",
+            "teacher": "FFN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "TCSE332(62_B2)",
+            "teacher": "MAH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "TCSE326(63_D2)",
+            "teacher": "MALH"
+          }
+        ]
+      },
+      {
+        "room_number": "CTBA-02",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "TCSE326(63_J1)",
+            "teacher": "AHAK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "TCSE326(63_F1)",
+            "teacher": "ZAF"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "TCSE326(63_E2)",
+            "teacher": "MALH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "TCSE332(62_E2)",
+            "teacher": "MMB"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "TCSE412(63_D1)",
+            "teacher": "MIS"
+          }
+        ]
+      }
+    ],
+    "labs": {
+      "computer_labs": [],
+      "electrical_labs": [],
+      "embedded_lab": {},
+      "iot_lab": {}
+    }
+  },
+  "Tuesday": {
+    "time_slots": [
+      "08:30-10:00",
+      "10:00-11:30",
+      "11:30-01:00",
+      "01:00-02:30",
+      "02:30-04:00",
+      "04:00-05:30"
+    ],
+    "rooms": [
+      {
+        "room_number": "KT-208",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "PHY101(68_F)",
+            "teacher": "SSK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "PHY101(68_C)",
+            "teacher": "MAK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "PHY101(68_B)",
+            "teacher": "MAK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE413(64_B)",
+            "teacher": "SZ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE413(64_E)",
+            "teacher": "SZ"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE226(65_O)",
+            "teacher": "DSK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-213",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE333(63_A)",
+            "teacher": "SH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE415(61_S)",
+            "teacher": "MAR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE233(61_M)",
+            "teacher": "MTF"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG101(69_A)",
+            "teacher": "AJS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE227(65_O)",
+            "teacher": "ALE"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-216",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE212(67_Q)",
+            "teacher": "SIP"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE411(63_A)",
+            "teacher": "AAK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE311(65_C)",
+            "teacher": "MJA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE423(63_A)",
+            "teacher": "STA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE213(67_L)",
+            "teacher": "TAB"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-217",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE233(61_G)",
+            "teacher": "MAS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE112(69_C)",
+            "teacher": "ACC"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "ENG102(68_O)",
+            "teacher": "SIS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE212(67_M)",
+            "teacher": "SKN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE331(62_B)",
+            "teacher": "MAH"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE214(3RE_A)",
+            "teacher": "MMB"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-218",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE311(RE_A)",
+            "teacher": "NHA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE313(64_K)",
+            "teacher": "ZS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE215(66_D)",
+            "teacher": "SMC"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE423(63_F)",
+            "teacher": "AHS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT101(69_A)",
+            "teacher": "MSH"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE321(65_F)",
+            "teacher": "AAK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-219",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE331(62_G)",
+            "teacher": "SHR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE333(63_H)",
+            "teacher": "MALH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "ENG102(68_D)",
+            "teacher": "SSA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE411(63_H)",
+            "teacher": "ALM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE215(66_J)",
+            "teacher": "KHR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE121(67_L)",
+            "teacher": "RHK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-220",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG101(69_F)",
+            "teacher": "SMH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE333(63_F)",
+            "teacher": "TAS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT101(69_F)",
+            "teacher": "MRR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG101(69_C)",
+            "teacher": "SMH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG102(68_M)",
+            "teacher": "ANR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE233(61_J)",
+            "teacher": "BM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-221",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE311(65_N)",
+            "teacher": "PPC"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ENG102(68_J)",
+            "teacher": "SML"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT102(68_G)",
+            "teacher": "MPL"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE415(61_G)",
+            "teacher": "FMA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE112(69_F)",
+            "teacher": "FFN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-222",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG102(68_H)",
+            "teacher": "ASA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE411(63_L)",
+            "teacher": "MRA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "ENG101(69_J)",
+            "teacher": "ANR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT102(68_A)",
+            "teacher": "MRR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE323(62_A)",
+            "teacher": "FFZ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-223",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "PHY101(68_J)",
+            "teacher": "AHT"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE115(69_M)",
+            "teacher": "FTJ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE227(65_N)",
+            "teacher": "MMRN"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE113(68_K)",
+            "teacher": "MHS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE221(66_F)",
+            "teacher": "TDR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE233(61_Q)",
+            "teacher": "JMS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-224",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE313(64_O)",
+            "teacher": "TAS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ENG101(69_E)",
+            "teacher": "ANR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE112(69_M)",
+            "teacher": "MHS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE112(69_J)",
+            "teacher": "TAB"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE226(65_I)",
+            "teacher": "MYA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-302",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE411(63_F)",
+            "teacher": "AAK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "STA101(64_B)",
+            "teacher": "MKH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE112(69_A)",
+            "teacher": "FZA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE325(63_L)",
+            "teacher": "MSS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(63_L)",
+            "teacher": "TAK"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE233(61_P)",
+            "teacher": "MMH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-303",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE334(62_B)",
+            "teacher": "MMRN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE411(63_J)",
+            "teacher": "MMRN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE325(63_J)",
+            "teacher": "AHAK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE233(61_O)",
+            "teacher": "JMS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(61_P)",
+            "teacher": "JIA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE333(63_N)",
+            "teacher": "PPC"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-304",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE423(63_L)",
+            "teacher": "FMA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE212(67_I)",
+            "teacher": "AHN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_G)",
+            "teacher": "ZS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG102(68_G)",
+            "teacher": "SSA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(61_R)",
+            "teacher": "ZS"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE321(65_I)",
+            "teacher": "STA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-305",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE333(61_L)",
+            "teacher": "JIA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE415(61_L)",
+            "teacher": "MFZ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE212(67_F)",
+            "teacher": "DMR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE411(63_E)",
+            "teacher": "MA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE213(67_J)",
+            "teacher": "AGT"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE333(61_O)",
+            "teacher": "MSS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-306",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE212(67_B)",
+            "teacher": "DMR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE445(62_B)",
+            "teacher": "FH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_I)",
+            "teacher": "ZMK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE212(67_E)",
+            "teacher": "DMR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(63_E)",
+            "teacher": "RIA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE333(63_M)",
+            "teacher": "TAK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-307",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE226(65_C)",
+            "teacher": "SSL"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE423(63_O)",
+            "teacher": "FMA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "STA101(64_G)",
+            "teacher": "AMN"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE112(69_B)",
+            "teacher": "NNM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG102(68_A)",
+            "teacher": "AJS"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE445(62_F)",
+            "teacher": "SR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-318(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE115(69_E)",
+            "teacher": "JHJ"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE325(63_K)",
+            "teacher": "LR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE113(68_N)",
+            "teacher": "AAKA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "PHY101(68_R)",
+            "teacher": "RIM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(63_J)",
+            "teacher": "SAJ"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "AOL101(66_Q)",
+            "teacher": "SMR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-318(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "PHY101(68_O)",
+            "teacher": "RIM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE323(62_C)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE411(63_K)",
+            "teacher": "MRA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE317(64_D)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "AOL101(RE_A)",
+            "teacher": "MUH"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE313(RE_A)",
+            "teacher": "TI"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-320",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE233(61_V)",
+            "teacher": "MLR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT102(68_F)",
+            "teacher": "MNM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE121(67_E)",
+            "teacher": "MRIS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE415(61_C)",
+            "teacher": "MSJ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE331(62_F)",
+            "teacher": "MMB"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE334(RE_A)",
+            "teacher": "MSRH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-801(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG101(69_M)",
+            "teacher": "SMSH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT101(69_J)",
+            "teacher": "SP"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_B)",
+            "teacher": "MSM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE423(63_C)",
+            "teacher": "LR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "PHY101(68_E)",
+            "teacher": "AAS"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE121(67_A)",
+            "teacher": "AKM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-801(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE115(69_A)",
+            "teacher": "FTJ"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ENG102(68_N)",
+            "teacher": "SMSH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE226(65_G)",
+            "teacher": "SSL"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE334(62_C)",
+            "teacher": "AHAK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(61_J)",
+            "teacher": "MAA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE213(RE_A)",
+            "teacher": "NK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-802",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE311(65_F)",
+            "teacher": "MUM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "PHY101(68_H)",
+            "teacher": "AAS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE113(68_E)",
+            "teacher": "MMR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE113(68_E)",
+            "teacher": "MMR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(61_S)",
+            "teacher": "NSL"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE226(65_D)",
+            "teacher": "AKC"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-803",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ECO237(RE_A)",
+            "teacher": "SMR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE213(67_Q)",
+            "teacher": "JHJ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE498(60_E)",
+            "teacher": "GR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE113(68_H)",
+            "teacher": "FAF"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "AOL101(66_D)",
+            "teacher": "SMR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE122(RE_A)",
+            "teacher": "FAA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-804",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE317(64_A)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE426(60_A)",
+            "teacher": "SAS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE121(67_J)",
+            "teacher": "AHT"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE233(61_I)",
+            "teacher": "ITS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(61_Q)",
+            "teacher": "MSS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-813(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "AOL101(66_J)",
+            "teacher": "SMN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE121(67_B)",
+            "teacher": "MAS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_I)",
+            "teacher": "ARS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT102(68_P)",
+            "teacher": "NRA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE233(61_D)",
+            "teacher": "MHI"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-514",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(68_E)",
+            "teacher": "MPL"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE212(67_A)",
+            "teacher": "SR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE227(65_A)",
+            "teacher": "NS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE227(65_D)",
+            "teacher": "NS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE226(65_F)",
+            "teacher": "SSL"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "PHY101(68_N)",
+            "teacher": "RIM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-515",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE221(66_I)",
+            "teacher": "UA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE413(64_I)",
+            "teacher": "THT"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE413(64_O)",
+            "teacher": "THT"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE212(67_H)",
+            "teacher": "MMI"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE445(62_C)",
+            "teacher": "SR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE233(RE_A)",
+            "teacher": "AHS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-516",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE313(64_B)",
+            "teacher": "SMTS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE213(67_P)",
+            "teacher": "SAJ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE313(64_A)",
+            "teacher": "SMTS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE213(67_F)",
+            "teacher": "SI"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE226(65_A)",
+            "teacher": "AKC"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE213(67_O)",
+            "teacher": "MJA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-517(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT211(67_C)",
+            "teacher": "NRM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE411(63_C)",
+            "teacher": "SAK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT211(67_D)",
+            "teacher": "NRM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE212(67_D)",
+            "teacher": "SR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT211(67_H)",
+            "teacher": "NRM"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE233(61_C)",
+            "teacher": "ATN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-518",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE233(61_U)",
+            "teacher": "ITS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT102(68_O)",
+            "teacher": "ABM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE498(60_A)",
+            "teacher": "MMI"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE317(64_E)",
+            "teacher": "AHN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE113(68_P)",
+            "teacher": "JLA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE426(60_E)",
+            "teacher": "PDS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-815",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE212(67_P)",
+            "teacher": "SKN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE317(64_H)",
+            "teacher": "NJO"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE323(62_D)",
+            "teacher": "NJO"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE317(64_O)",
+            "teacher": "ROZ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG102(68_K)",
+            "teacher": "SMSH"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "MAT211(67_J)",
+            "teacher": "NDS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-916",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(68_R)",
+            "teacher": "ABM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ENG102(68_R)",
+            "teacher": "MFA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "PHY101(68_M)",
+            "teacher": "AAR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE226(65_N)",
+            "teacher": "DSK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT211(67_O)",
+            "teacher": "MNM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-919",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE325(63_N)",
+            "teacher": "ZAF"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE333(63_N)",
+            "teacher": "PPC"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE411(63_N)",
+            "teacher": "FFN"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE415(61_D)",
+            "teacher": "MAIT"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE423(63_N)",
+            "teacher": "MDA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-501(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE324(62_A1)",
+            "teacher": "FFZ"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE324(62_A1)",
+            "teacher": "FFZ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE324(62_A1)",
+            "teacher": "FFZ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE113(68_M)",
+            "teacher": "SIP"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE114(68_G2)",
+            "teacher": "MHN"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE114(68_G2)",
+            "teacher": "MHN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-501(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE322(65_A2)",
+            "teacher": "IMD"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE322(65_A2)",
+            "teacher": "IMD"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE445(62_H)",
+            "teacher": "JIA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE324(62_D2)",
+            "teacher": "NJO"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE324(62_D2)",
+            "teacher": "NJO"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE324(62_D2)",
+            "teacher": "NJO"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-503",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE314(64_G1)",
+            "teacher": "RKR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE314(64_G1)",
+            "teacher": "RKR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_U)",
+            "teacher": "PPC"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE314(64_G2)",
+            "teacher": "RKR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE314(64_G2)",
+            "teacher": "RKR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-504",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE114(68_D1)",
+            "teacher": "ABA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE114(68_D1)",
+            "teacher": "ABA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE311(65_I)",
+            "teacher": "SH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE114(68_D2)",
+            "teacher": "ABA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE114(68_D2)",
+            "teacher": "ABA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-510",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(68_M)",
+            "teacher": "NRA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE332(62_D2)",
+            "teacher": "TRA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE314(64_H1)",
+            "teacher": "RAK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE314(64_H1)",
+            "teacher": "RAK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-513",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE115(69_N)",
+            "teacher": "AUA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE412(63_G1)",
+            "teacher": "MA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE222(66_F2)",
+            "teacher": "TDR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE222(66_F2)",
+            "teacher": "TDR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "AOL101(66_P)",
+            "teacher": "ZZ"
+          }
+        ]
+      },
+      {
+        "room_number": "CTBA-01",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "TCSE412(63_G1)",
+            "teacher": "MA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "TCSE332(62_G2)",
+            "teacher": "SHR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "TCSE332(62_A2)",
+            "teacher": "MAH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "TCSE412(63_M2)",
+            "teacher": "MIS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "TCSE326(63_K2)",
+            "teacher": "LR"
+          }
+        ]
+      },
+      {
+        "room_number": "CTBA-02",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "TCSE332(62_D2)",
+            "teacher": "TRA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "TCSE332(62_F2)",
+            "teacher": "MMB"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE213(2RE_A1)",
+            "teacher": "MRH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE213(2RE_A1)",
+            "teacher": "MRH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "TCSE326(63_G1)",
+            "teacher": "SN"
+          }
+        ]
+      },
+      {
+        "room_number": "CTBA-03",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "TCSE326(63_G2)",
+            "teacher": "SN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "TCSE412(63_C2)",
+            "teacher": "SAK"
+          }
+        ]
+      }
+    ],
+    "labs": {
+      "computer_labs": [],
+      "electrical_labs": [],
+      "embedded_lab": {},
+      "iot_lab": {}
+    }
+  },
+  "Wednesday": {
+    "time_slots": [
+      "08:30-10:00",
+      "10:00-11:30",
+      "11:30-01:00",
+      "01:00-02:30",
+      "02:30-04:00",
+      "04:00-05:30"
+    ],
+    "rooms": [
+      {
+        "room_number": "KT-208",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE221(66_A)",
+            "teacher": "SAH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE221(66_B)",
+            "teacher": "SAH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE413(64_F)",
+            "teacher": "SZ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "AOL101(66_C)",
+            "teacher": "AAM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE413(64_H)",
+            "teacher": "SZ"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE221(66_E)",
+            "teacher": "MIZ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-213",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE227(65_C)",
+            "teacher": "MM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE227(65_B)",
+            "teacher": "MM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_J)",
+            "teacher": "FNK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE323(1RE_A)",
+            "teacher": "FFZ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE321(65_F)",
+            "teacher": "AAK"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "STA101(64_L)",
+            "teacher": "AMN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-216",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "STA101(64_D)",
+            "teacher": "AMN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ENG102(68_A)",
+            "teacher": "AJS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "AOL101(66_J)",
+            "teacher": "SMN"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE221(66_N)",
+            "teacher": "SGP"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE113(68_L)",
+            "teacher": "MJZ"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE215(RE_A)",
+            "teacher": "MRIS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-217",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE215(66_B)",
+            "teacher": "SMC"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ENG123(RE_A)",
+            "teacher": "SAAS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE121(67_I)",
+            "teacher": "RHK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "PHY101(68_L)",
+            "teacher": "AAR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT102(68_M)",
+            "teacher": "NRA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-218",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE215(66_C)",
+            "teacher": "MAI"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ENG102(68_R)",
+            "teacher": "MFA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE221(66_P)",
+            "teacher": "JAR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE113(68_O)",
+            "teacher": "MJZ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT102(68_O)",
+            "teacher": "ABM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-219",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE313(64_O)",
+            "teacher": "TAS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE121(67_P)",
+            "teacher": "MLR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE121(67_J)",
+            "teacher": "AHT"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE215(66_P)",
+            "teacher": "JNT"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "PHY101(68_Q)",
+            "teacher": "MAM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-220",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "PHY101(68_D)",
+            "teacher": "SSK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "STA101(64_J)",
+            "teacher": "AST"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "AOL101(66_A)",
+            "teacher": "AAM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "STA101(64_F)",
+            "teacher": "AMN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE415(61_P)",
+            "teacher": "ALE"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-221",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "STA101(64_I)",
+            "teacher": "AST"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE423(63_K)",
+            "teacher": "MSK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE415(61_J)",
+            "teacher": "NSL"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE331(62_G)",
+            "teacher": "SHR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE226(65_M)",
+            "teacher": "DSK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-222",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE227(65_F)",
+            "teacher": "RAK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE415(61_Q)",
+            "teacher": "SEA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "ENG102(68_C)",
+            "teacher": "AJS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE121(67_G)",
+            "teacher": "MRIS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ENG101(69_B)",
+            "teacher": "SSA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE233(61_S)",
+            "teacher": "EHL"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-223",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE317(64_M)",
+            "teacher": "SHR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE233(61_P)",
+            "teacher": "MMH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "STA101(64_O)",
+            "teacher": "TKR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "PHY101(68_P)",
+            "teacher": "MAM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE113(68_P)",
+            "teacher": "JLA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "MAT101(69_B)",
+            "teacher": "MRR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-224",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(68_K)",
+            "teacher": "NRA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE415(61_H)",
+            "teacher": "AAA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_H)",
+            "teacher": "TRA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "PHY101(RE_A)",
+            "teacher": "RIM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE331(62_D)",
+            "teacher": "TRA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE226(65_N)",
+            "teacher": "DSK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-302",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE331(62_B)",
+            "teacher": "MAH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE323(62_B)",
+            "teacher": "JIA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "AOL101(66_O)",
+            "teacher": "SMR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "AOL101(66_E)",
+            "teacher": "SMN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE227(65_N)",
+            "teacher": "MMRN"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE423(63_I)",
+            "teacher": "STA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-303",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE313(64_J)",
+            "teacher": "UH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE311(65_C)",
+            "teacher": "MJA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_L)",
+            "teacher": "MRA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE415(61_I)",
+            "teacher": "AAA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE445(62_E)",
+            "teacher": "AHAK"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE334(62_E)",
+            "teacher": "MAR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-304",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE233(61_Q)",
+            "teacher": "JMS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE313(64_I)",
+            "teacher": "UH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE213(67_O)",
+            "teacher": "MJA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG101(69_N)",
+            "teacher": "SMSH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE317(64_J)",
+            "teacher": "MALH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-305",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE115(69_R)",
+            "teacher": "HHP"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT101(69_R)",
+            "teacher": "AHKA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "PHY101(68_F)",
+            "teacher": "SSK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE411(63_I)",
+            "teacher": "ALM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(63_I)",
+            "teacher": "RIA"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "ENG102(68_M)",
+            "teacher": "ANR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-306",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE411(63_N)",
+            "teacher": "FFN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE113(68_B)",
+            "teacher": "SRH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "AOL101(66_L)",
+            "teacher": "GR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE411(63_L)",
+            "teacher": "MRA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE112(69_G)",
+            "teacher": "MB"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE311(65_F)",
+            "teacher": "MUM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-307",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE333(61_P)",
+            "teacher": "JIA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE411(63_F)",
+            "teacher": "AAK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_C)",
+            "teacher": "MSM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE333(63_F)",
+            "teacher": "TAS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(61_I)",
+            "teacher": "ARS"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE215(66_J)",
+            "teacher": "KHR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-318(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE313(64_C)",
+            "teacher": "MUR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT102(68_F)",
+            "teacher": "MNM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE221(66_C)",
+            "teacher": "TDR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE331(62_C)",
+            "teacher": "TRA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE323(62_C)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE413(64_N)",
+            "teacher": "AAA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-318(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE325(63_I)",
+            "teacher": "AHAK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE333(61_V)",
+            "teacher": "PPC"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE313(64_L)",
+            "teacher": "DS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE112(69_L)",
+            "teacher": "DRAR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE313(64_N)",
+            "teacher": "MUR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE221(66_O)",
+            "teacher": "SGP"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-320",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE423(63_L)",
+            "teacher": "FMA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE333(63_L)",
+            "teacher": "TAK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE311(65_M)",
+            "teacher": "MAA"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG101(69_P)",
+            "teacher": "ASA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE317(64_F)",
+            "teacher": "ALM"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE445(62_D)",
+            "teacher": "SAK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-801(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(68_J)",
+            "teacher": "MPL"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "PHY101(68_K)",
+            "teacher": "AAS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE311(65_K)",
+            "teacher": "NK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "PHY101(68_I)",
+            "teacher": "AAS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE121(67_H)",
+            "teacher": "MRH"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE321(65_L)",
+            "teacher": "ARS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-801(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT211(67_B)",
+            "teacher": "BCD"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT211(67_G)",
+            "teacher": "BCD"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE226(65_H)",
+            "teacher": "SSL"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT101(69_J)",
+            "teacher": "SP"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE415(61_N)",
+            "teacher": "MFZ"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE333(61_N)",
+            "teacher": "JLA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-802",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT101(69_H)",
+            "teacher": "SP"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE212(67_O)",
+            "teacher": "RKR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE212(67_L)",
+            "teacher": "RKR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT101(69_C)",
+            "teacher": "MSH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE313(64_G)",
+            "teacher": "RKR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE226(65_E)",
+            "teacher": "AKC"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-803",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG102(68_E)",
+            "teacher": "SMH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE213(67_Q)",
+            "teacher": "JHJ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT102(68_B)",
+            "teacher": "SP"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT211(67_E)",
+            "teacher": "NDS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE226(65_L)",
+            "teacher": "AKC"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-804",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT211(67_O)",
+            "teacher": "MNM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT211(67_J)",
+            "teacher": "NDS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE226(65_A)",
+            "teacher": "AKC"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE233(61_R)",
+            "teacher": "KHR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE313(64_D)",
+            "teacher": "DRAR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-813(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE333(63_B)",
+            "teacher": "MIS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE233(61_N)",
+            "teacher": "MHI"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE311(65_L)",
+            "teacher": "IJN"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE113(68_K)",
+            "teacher": "MHS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE415(61_R)",
+            "teacher": "TAK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-514",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE212(67_P)",
+            "teacher": "SKN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE227(65_A)",
+            "teacher": "NS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE311(65_J)",
+            "teacher": "SH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE227(65_D)",
+            "teacher": "NS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE311(65_O)",
+            "teacher": "NHA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-515",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE212(67_Q)",
+            "teacher": "SIP"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE413(64_C)",
+            "teacher": "THT"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE413(64_D)",
+            "teacher": "THT"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE221(66_J)",
+            "teacher": "UA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE212(67_K)",
+            "teacher": "MMI"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE112(69_P)",
+            "teacher": "MHS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-516",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE331(64_E)",
+            "teacher": "SMTS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE331(64_F)",
+            "teacher": "SMTS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE212(67_H)",
+            "teacher": "MMI"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE311(65_A)",
+            "teacher": "NK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "AOL101(66_G)",
+            "teacher": "ZZ"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE336(RE_A)",
+            "teacher": "AAM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-517(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT211(67_I)",
+            "teacher": "NRM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT211(67_K)",
+            "teacher": "NRM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE212(67_M)",
+            "teacher": "SKN"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE227(65_M)",
+            "teacher": "MUR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE317(64_E)",
+            "teacher": "AHN"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE215(66_N)",
+            "teacher": "SHD"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-518",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE213(67_K)",
+            "teacher": "TAR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE213(67_B)",
+            "teacher": "SI"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT102(68_D)",
+            "teacher": "MNM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE331(62_A)",
+            "teacher": "MAH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE215(66_O)",
+            "teacher": "UYH"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE313(RE_A)",
+            "teacher": "TI"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-815",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE423(63_M)",
+            "teacher": "SEA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE121(67_A)",
+            "teacher": "AKM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE121(67_E)",
+            "teacher": "MRIS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE333(63_M)",
+            "teacher": "TAK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "AOL101(66_K)",
+            "teacher": "SMN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-916",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT101(69_N)",
+            "teacher": "MSH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT102(68_E)",
+            "teacher": "MPL"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE121(67_F)",
+            "teacher": "MRH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "AOL101(66_Q)",
+            "teacher": "SMR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE215(66_E)",
+            "teacher": "SHD"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-919",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE321(65_K)",
+            "teacher": "FTJ"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE423(63_N)",
+            "teacher": "MDA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE415(61_O)",
+            "teacher": "ALE"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT211(RE_B)",
+            "teacher": "MYA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE221(66_L)",
+            "teacher": "HJ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-501(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE324(62_A2)",
+            "teacher": "FFZ"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE324(62_A2)",
+            "teacher": "FFZ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE324(62_A2)",
+            "teacher": "FFZ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "AOL101(66_I)",
+            "teacher": "GR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE233(61_G)",
+            "teacher": "MAS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-501(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE113(68_C)",
+            "teacher": "MSM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE112(69_H)",
+            "teacher": "FFN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE332(62_A1)",
+            "teacher": "MAH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE333(63_D)",
+            "teacher": "MUH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE215(66_A)",
+            "teacher": "MAI"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-503",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE324(62_D1)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE324(62_D1)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE324(62_D1)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE227(65_J)",
+            "teacher": "IJN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE227(65_H)",
+            "teacher": "HH"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE321(65_H)",
+            "teacher": "AAK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-504",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE221(66_Q)",
+            "teacher": "JAR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "AOL101(66_P)",
+            "teacher": "ZZ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "STA101(64_G)",
+            "teacher": "AMN"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE312(65_C1)",
+            "teacher": "MJA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE312(65_C1)",
+            "teacher": "MJA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-510",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE314(64_B2)",
+            "teacher": "DRAR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE314(64_B2)",
+            "teacher": "DRAR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE233(61_K)",
+            "teacher": "MTF"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE415(61_K)",
+            "teacher": "NSL"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "AOL101(66_N)",
+            "teacher": "FNK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-513",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG102(68_I)",
+            "teacher": "ANR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE113(68_J)",
+            "teacher": "MSM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE312(65_F2)",
+            "teacher": "MUM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE312(65_F2)",
+            "teacher": "MUM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE423(63_H)",
+            "teacher": "DAA"
+          }
+        ]
+      },
+      {
+        "room_number": "CTBA-01",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "TCSE412(63_E1)",
+            "teacher": "MA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "TCSE332(62_A1)",
+            "teacher": "MAH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "TCSE332(62_F1)",
+            "teacher": "MMB"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "TCSE412(63_N1)",
+            "teacher": "FFN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "TCSE412(63_N2)",
+            "teacher": "FFN"
+          }
+        ]
+      },
+      {
+        "room_number": "CTBA-02",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE316(2RE_A1)",
+            "teacher": "SAL"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "TCSE412(63_H2)",
+            "teacher": "ALM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "TCSE326(63_E1)",
+            "teacher": "MALH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "TCSE412(63_E2)",
+            "teacher": "MA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "TCSE412(63_H1)",
+            "teacher": "ALM"
+          }
+        ]
+      },
+      {
+        "room_number": "CTBA-03",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "TCSE326(63_H1)",
+            "teacher": "SN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "TCSE412(63_B1)",
+            "teacher": "SAK"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "TCSE326(63_H2)",
+            "teacher": "SN"
+          }
+        ]
+      }
+    ],
+    "labs": {
+      "computer_labs": [],
+      "electrical_labs": [],
+      "embedded_lab": {},
+      "iot_lab": {}
+    }
+  },
+  "Thursday": {
+    "time_slots": [
+      "08:30-10:00",
+      "10:00-11:30",
+      "11:30-01:00",
+      "01:00-02:30",
+      "02:30-04:00",
+      "04:00-05:30"
+    ],
+    "rooms": [
+      {
+        "room_number": "KT-208",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE317(64_N)",
+            "teacher": "ROZ"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "AOL101(66_B)",
+            "teacher": "SMR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE215(66_B)",
+            "teacher": "SMC"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT211(67_N)",
+            "teacher": "NDS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE121(67_H)",
+            "teacher": "MRH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-213",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE215(66_G)",
+            "teacher": "SMC"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "STA101(64_N)",
+            "teacher": "TKR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_O)",
+            "teacher": "ZMK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE311(65_D)",
+            "teacher": "MJA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE323(62_E)",
+            "teacher": "NJO"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-216",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE121(67_B)",
+            "teacher": "MAS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "ACT211(RE_A)",
+            "teacher": "SMR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE411(63_O)",
+            "teacher": "SAL"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-217",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE423(63_O)",
+            "teacher": "FMA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE325(63_O)",
+            "teacher": "MHIM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "AOL101(RE_A)",
+            "teacher": "MUH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-218",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "PHY101(68_M)",
+            "teacher": "AAR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE121(67_N)",
+            "teacher": "AHT"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE333(61_V)",
+            "teacher": "PPC"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE233(61_V)",
+            "teacher": "MLR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE415(61_V)",
+            "teacher": "SAL"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-219",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE421(RE_A)",
+            "teacher": "SKN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-221",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE215(RE_A)",
+            "teacher": "MRIS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-223",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE423(63_K)",
+            "teacher": "MSK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-302",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE415(61_F)",
+            "teacher": "NAE"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE413(64_J)",
+            "teacher": "NAE"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE233(61_F)",
+            "teacher": "MMH"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT211(RE_A)",
+            "teacher": "DSK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-303",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE233(61_B)",
+            "teacher": "MHK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE415(61_B)",
+            "teacher": "MIZ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE317(64_D)",
+            "teacher": "ADK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "STA101(64_D)",
+            "teacher": "AMN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-304",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "STA221(RE_A)",
+            "teacher": "AFS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "STA101(64_L)",
+            "teacher": "AMN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE317(64_L)",
+            "teacher": "SHR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE115(69_Q)",
+            "teacher": "AIR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-305",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE334(62_H)",
+            "teacher": "SAS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE325(63_M)",
+            "teacher": "SAS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE311(65_E)",
+            "teacher": "MSK"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE323(62_H)",
+            "teacher": "IPK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "AOL101(66_C)",
+            "teacher": "AAM"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-306",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE227(65_G)",
+            "teacher": "IJN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE445(62_H)",
+            "teacher": "JIA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "AOL101(66_F)",
+            "teacher": "SMN"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE121(67_L)",
+            "teacher": "RHK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE112(69_Q)",
+            "teacher": "RAK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-307",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE236(2RE_A)",
+            "teacher": "IMD"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE236(2RE_A)",
+            "teacher": "IMD"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE321(65_N)",
+            "teacher": "ROZ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE215(66_F)",
+            "teacher": "MHK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE331(62_H)",
+            "teacher": "KNJ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-318(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE112(69_O)",
+            "teacher": "MFZ"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE123(RE_A)",
+            "teacher": "KNJ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-318(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "AOL101(66_E)",
+            "teacher": "SMN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE221(66_E)",
+            "teacher": "MIZ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-801(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(68_Q)",
+            "teacher": "ABM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "PHY101(68_Q)",
+            "teacher": "MAM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT102(68_I)",
+            "teacher": "MPL"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE413(64_L)",
+            "teacher": "FFZ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "ECO237(RE_A)",
+            "teacher": "SMR"
+          },
+          {
+            "time": "04:00-05:30",
+            "course": "CSE445(62_E)",
+            "teacher": "AHAK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-801(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT101(RE_B)",
+            "teacher": "HSA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE323(62_A)",
+            "teacher": "FFZ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "GED121(RE_A)",
+            "teacher": "RAM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "GED121(RE_A)",
+            "teacher": "RAM"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "MAT101(69_R)",
+            "teacher": "AHKA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-802",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE227(65_I)",
+            "teacher": "HH"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE227(65_I)",
+            "teacher": "HH"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE212(67_D)",
+            "teacher": "SR"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE445(62_A)",
+            "teacher": "SR"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE333(61_T)",
+            "teacher": "HHP"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-803",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "ENG101(69_T)",
+            "teacher": "SSN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE115(69_S)",
+            "teacher": "HHP"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "ENG101(69_S)",
+            "teacher": "SSN"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG101(69_R)",
+            "teacher": "SSN"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "STA101(64_O)",
+            "teacher": "TKR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-804",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE112(69_R)",
+            "teacher": "IPK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE321(65_I)",
+            "teacher": "STA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "STA227(RE_A)",
+            "teacher": "TKR"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-813(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE115(69_R)",
+            "teacher": "HHP"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT101(69_T)",
+            "teacher": "HSA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE413(64_K)",
+            "teacher": "NAE"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE115(69_T)",
+            "teacher": "HHP"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE121(67_D)",
+            "teacher": "MSU"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-514",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE325(63_N)",
+            "teacher": "ZAF"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE411(63_K)",
+            "teacher": "MRA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_K)",
+            "teacher": "ZAF"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE112(69_T)",
+            "teacher": "MSRH"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE413(1RE_A)",
+            "teacher": "MSRH"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-515",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE121(67_G)",
+            "teacher": "MRIS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE413(64_M)",
+            "teacher": "FFZ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE233(61_S)",
+            "teacher": "EHL"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "MAT101(69_S)",
+            "teacher": "HSA"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE112(69_S)",
+            "teacher": "IPK"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-516",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE221(66_J)",
+            "teacher": "UA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE333(63_K)",
+            "teacher": "SAJ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE115(69_A)",
+            "teacher": "FTJ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "ENG101(69_A)",
+            "teacher": "AJS"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE235(RE_A)",
+            "teacher": "GRS"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-517(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE231(1RE_A)",
+            "teacher": "SHR"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "MAT121(RE_A)",
+            "teacher": "GRS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE321(65_G)",
+            "teacher": "AAM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE331(2RE_A)",
+            "teacher": "RAK"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE321(RE_A)",
+            "teacher": "IMD"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-518",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE226(RE_A)",
+            "teacher": "MB"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "PHY101(68_L)",
+            "teacher": "AAR"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "MAT102(68_L)",
+            "teacher": "ABM"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE221(66_H)",
+            "teacher": "FAJ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-815",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE215(66_L)",
+            "teacher": "SHD"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE228(RE_A)",
+            "teacher": "SAJ"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE228(RE_A)",
+            "teacher": "SAJ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-916",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "MAT102(68_H)",
+            "teacher": "MPL"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-501(A)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE324(62_E2)",
+            "teacher": "NJO"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE324(62_E2)",
+            "teacher": "NJO"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE324(62_E2)",
+            "teacher": "NJO"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE315(RE_A)",
+            "teacher": "IMD"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-501(B)",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE322(65_D1)",
+            "teacher": "AAM"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE322(65_D1)",
+            "teacher": "AAM"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE416(61_B2)",
+            "teacher": "NAE"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE416(61_B2)",
+            "teacher": "NAE"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE416(61_B2)",
+            "teacher": "NAE"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-503",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE312(65_C2)",
+            "teacher": "MJA"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE312(65_C2)",
+            "teacher": "MJA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE416(61_B1)",
+            "teacher": "MIZ"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE416(61_B1)",
+            "teacher": "MIZ"
+          },
+          {
+            "time": "02:30-04:00",
+            "course": "CSE416(61_B1)",
+            "teacher": "MIZ"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-504",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE113(68_M)",
+            "teacher": "SIP"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE322(65_I1)",
+            "teacher": "STA"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE322(65_I1)",
+            "teacher": "STA"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-510",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE312(65_L1)",
+            "teacher": "IJN"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE312(65_L1)",
+            "teacher": "IJN"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE312(65_L2)",
+            "teacher": "IJN"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE312(65_L2)",
+            "teacher": "IJN"
+          }
+        ]
+      },
+      {
+        "room_number": "KT-513",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "CSE314(64_K1)",
+            "teacher": "ZS"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "CSE314(64_K1)",
+            "teacher": "ZS"
+          },
+          {
+            "time": "11:30-01:00",
+            "course": "CSE314(64_K2)",
+            "teacher": "ZS"
+          },
+          {
+            "time": "01:00-02:30",
+            "course": "CSE314(64_K2)",
+            "teacher": "ZS"
+          }
+        ]
+      },
+      {
+        "room_number": "CTBA-01",
+        "sessions": [
+          {
+            "time": "08:30-10:00",
+            "course": "TCSE326(63_I2)",
+            "teacher": "AHAK"
+          },
+          {
+            "time": "10:00-11:30",
+            "course": "TCSE326(63_I1)",
+            "teacher": "AHAK"
+          }
+        ]
+      }
+    ],
+    "labs": {
+      "computer_labs": [],
+      "electrical_labs": [],
+      "embedded_lab": {},
+      "iot_lab": {}
+    }
+  }
+}
