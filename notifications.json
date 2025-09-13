@@ -1,0 +1,18 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "title": "📢 Routine Update",
+      "message": "Fall 2025 final exam routine has been uploaded.",
+      "date": "2025-09-15",
+      "read": false
+    },
+    {
+      "id": 2,
+      "title": "⚡ New Feature",
+      "message": "You can now view notifications dynamically from GitHub!",
+      "date": "2025-09-13",
+      "read": false
+    }
+  ]
+}
