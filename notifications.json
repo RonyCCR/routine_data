@@ -2,30 +2,9 @@
   "notifications": [
     {
       "id": 1,
-      "title": "📢 Routine Update",
-      "message": "Fall 2025 final exam routine has been uploaded.",
-      "date": "2025-09-15T19:45:00",
-      "read": false
-    },
-    {
-      "id": 2,
-      "title": "⚡ New Feature",
-      "message": "You can now view notifications dynamically from GitHub!",
-      "date": "2025-09-13T18:45:00",
-      "read": false
-    },
-    {
-      "id": 3,
-      "title": "📢 DIU Routine Tracker App v1.0 close to Release!",
-      "message": "Get ready to streamline your academic life! The DIU Routine Tracker App v1.0 is launching soon, putting your class schedules, exam dates, and important academic deadlines right at your fingertips. Say goodbye to missed classes and forgotten assignments – this app is designed to help you stay organized and on track. Keep an eye out for the official release!",
-      "date": "2025-09-13T17:45:00",
-      "read": false
-    },
-     {
-      "id": 4,
-      "title": "Test Notification",
-      "message": "Get ready to streamline your academic life! The DIU Routine Tracker App v1.0 is launching soon, putting your class schedules, exam dates, and important academic deadlines right at your fingertips. Say goodbye to missed classes and forgotten assignments – this app is designed to help you stay organized and on track. Keep an eye out for the official release!",
-      "date": "2025-09-13T21:50:00",
+      "title": "📢 DIU Routine Tracker v1.1.0 – First Official Release! 🎉",
+      "message": "We are excited to announce the first stable release of DIU Routine Tracker – a smart desktop application designed to simplify routine and exam management for Daffodil International University (DIU) students.\\n\\n✨ Features\\n- Class Routine Viewer\\n- Exam Routine Viewer\\n- Notification System\\n- Offline Support\\n- Auto Update Check\\n- Modern UI Experience",
+      "date": "2025-09-14T12:23:00",
       "read": false
     }
   ]
