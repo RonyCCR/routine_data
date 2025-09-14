@@ -2,7 +2,7 @@
   "notifications": [
     {
       "id": 10,
-      "title": "📢 DIU Routine Tracker v1.1.0 – First Official Release! 🎉",
+      "title": "📢 DIU Routine Tracker v1.1.0 – First Official Release!",
       "message": "We are excited to announce the first stable release of DIU Routine Tracker – a smart desktop application designed to simplify routine and exam management for Daffodil International University (DIU) students. This version includes features such as Class Routine Viewer, Exam Routine Viewer, Notification System, Offline Support, Auto Update Check, and a Modern UI Experience.",
       "date": "2025-09-14T12:32:00",
       "read": false
