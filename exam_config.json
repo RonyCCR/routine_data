@@ -1,6 +1,6 @@
 {
   "mid": {
-    "title": "Mid Summer 2025",
+    "title": "Mid Spring 2026",
     "files": [
       "Merged_Seat_Details_28_6_2025.xlsx",
       "Merged_Seat_Details_29_6_2025.xlsx",
@@ -12,7 +12,7 @@
     ]
   },
   "final": {
-    "title": "Final Summer 2025",
+    "title": "Final Spring 2026",
     "files": [
       "23_Seat_Details_merged.xlsx",
       "24_Seat_Details_merged.xlsx",
@@ -25,6 +25,7 @@
     ]
   }
 }
+
 
 
 
