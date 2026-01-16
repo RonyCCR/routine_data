@@ -34,6 +34,13 @@
       "message": "A new version of class routine- Department of CSE Class Routine v1.0 just published. Check the newly published routine before your next class. Thank you for using DIU Routine Tracker.",
       "date": "2026-01-10T18:30:00",
       "read": false
+    },
+    {
+      "id": 20,
+      "title": "📢 DIU Routine Tracker v1.2.0 – Major Exam Routine Update",
+      "message": "Changelog— v1.2.0 - Accurate Exam Routine Tracking. - More Optimized & More Stable. - Bug Fixed. - And Many More.",
+      "date": "2026-01-16T01:00:00",
+      "read": false
     }
     
   ]
