@@ -48,7 +48,15 @@
       "message": "A new version of class routine- Department of CSE Spring 2026 Class Routine v2.0 just published. Check the newly published routine before your next class. Thank you for using DIU Routine Tracker.",
       "date": "2026-01-16T15:43:00",
       "read": false
+    },
+    {
+      "id": 22,
+      "title": "📢 CSE: Class Routine Version v4.0 released!",
+      "message": "A new version of class routine- Department of CSE Spring 2026 Class Routine v2.0 just published.\nCheck the newly published routine before your next class.\nThank you for using DIU Routine Tracker.",
+      "date": "2026-01-31T18:42:00",
+      "read": false
     }
+    
     
   ]
 }
