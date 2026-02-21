@@ -2,13 +2,12 @@
   "mid": {
     "title": "Mid Spring 2026",
     "files": [
-      "Merged_Seat_Details_28_6_2025.xlsx",
-      "Merged_Seat_Details_29_6_2025.xlsx",
-      "Merged_Seat_Details_30_6_2025.xlsx",
-      "Merged_Seat_Details_01_7_2025.xlsx",
-      "Merged_Seat_Details_02_07_2025.xlsx",
-      "Merged_Seat_Details_03_07_2025.xlsx",
-      "Merged_Seat_Details_05_07_2025.xlsx"
+      "22_details_merge.xlsx",
+      "23.02.26_Seat_Details.xlsx",
+      "24_details_merge.xlsx",
+      "25.02.2026_Seat_Details.xlsx",
+      "26_details_merge.xlsx",
+      "28_details_merge.xlsx"
     ]
   },
   "final": {
@@ -25,6 +24,7 @@
     ]
   }
 }
+
 
 
 
